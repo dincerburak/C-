@@ -1,0 +1,15 @@
+/Users/burak/Desktop/C#/Donguler_while_foreach/bin/Debug/net7.0/Donguler_while_foreach
+/Users/burak/Desktop/C#/Donguler_while_foreach/bin/Debug/net7.0/Donguler_while_foreach.deps.json
+/Users/burak/Desktop/C#/Donguler_while_foreach/bin/Debug/net7.0/Donguler_while_foreach.runtimeconfig.json
+/Users/burak/Desktop/C#/Donguler_while_foreach/bin/Debug/net7.0/Donguler_while_foreach.dll
+/Users/burak/Desktop/C#/Donguler_while_foreach/bin/Debug/net7.0/Donguler_while_foreach.pdb
+/Users/burak/Desktop/C#/Donguler_while_foreach/obj/Debug/net7.0/Donguler_while_foreach.csproj.AssemblyReference.cache
+/Users/burak/Desktop/C#/Donguler_while_foreach/obj/Debug/net7.0/Donguler_while_foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burak/Desktop/C#/Donguler_while_foreach/obj/Debug/net7.0/Donguler_while_foreach.AssemblyInfoInputs.cache
+/Users/burak/Desktop/C#/Donguler_while_foreach/obj/Debug/net7.0/Donguler_while_foreach.AssemblyInfo.cs
+/Users/burak/Desktop/C#/Donguler_while_foreach/obj/Debug/net7.0/Donguler_while_foreach.csproj.CoreCompileInputs.cache
+/Users/burak/Desktop/C#/Donguler_while_foreach/obj/Debug/net7.0/Donguler_while_foreach.dll
+/Users/burak/Desktop/C#/Donguler_while_foreach/obj/Debug/net7.0/refint/Donguler_while_foreach.dll
+/Users/burak/Desktop/C#/Donguler_while_foreach/obj/Debug/net7.0/Donguler_while_foreach.pdb
+/Users/burak/Desktop/C#/Donguler_while_foreach/obj/Debug/net7.0/Donguler_while_foreach.genruntimeconfig.cache
+/Users/burak/Desktop/C#/Donguler_while_foreach/obj/Debug/net7.0/ref/Donguler_while_foreach.dll
